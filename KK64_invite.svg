@@ -1,0 +1,2135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5336"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="KK64_invite.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5338"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.45344287"
+     inkscape:cx="223.84297"
+     inkscape:cy="600.95773"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1512"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer8" />
+  <defs
+     id="defs5333">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10749">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="0"
+         id="stop10745" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.5;"
+         offset="1"
+         id="stop10747" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7891">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7887" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop7889" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7891"
+       id="linearGradient7893"
+       x1="92.40168"
+       y1="189.35048"
+       x2="92.40168"
+       y2="199.35048"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(139.3985,0.41242159)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7891"
+       id="linearGradient8687"
+       gradientUnits="userSpaceOnUse"
+       x1="92.40168"
+       y1="189.35048"
+       x2="92.40168"
+       y2="199.35048"
+       gradientTransform="rotate(120,161.98188,239.79757)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7891"
+       id="linearGradient8693"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0.8660254,0.8660254,-0.5,12.956758,219.41594)"
+       x1="92.40168"
+       y1="189.35048"
+       x2="92.40168"
+       y2="199.35048" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10445">
+      <rect
+         style="display:inline;opacity:0.25;fill:#ffffff;stroke:none;stroke-width:1.5;stroke-linejoin:round;stroke-dasharray:1.5, 1.5;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect10447"
+         width="210"
+         height="297"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10567">
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:1.5;stroke-linejoin:round;stroke-dasharray:1.5, 1.5;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect10569"
+         width="210"
+         height="297"
+         x="0"
+         y="0" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10749"
+       id="radialGradient10751"
+       cx="105"
+       cy="148.5"
+       fx="105"
+       fy="148.5"
+       r="101.25"
+       gradientTransform="matrix(1,0,0,1.4296296,0,-63.8)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="bg_backdrop"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:1.5;stroke-linejoin:round;stroke-dasharray:1.5, 1.5;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect5509"
+       width="210"
+       height="297"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="bg_pattern"
+     style="opacity:0.1"
+     sodipodi:insensitive="true">
+    <g
+       id="g9711"
+       clip-path="url(#clipPath10445)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8701"
+         id="use8703"
+         transform="translate(-290.10709,-185.24494)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8701"
+         id="use8817"
+         transform="translate(-281.44683,-170.24494)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use8819"
+         transform="translate(8.66026,-15)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use8821"
+         transform="translate(8.66026,15)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use8823"
+         transform="translate(8.66026,-15)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use8825"
+         transform="translate(8.66026,15)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8703"
+         id="use8827"
+         transform="translate(51.96156)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use8829"
+         transform="translate(51.96156)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use8831"
+         transform="translate(51.96156)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use8833"
+         transform="translate(51.96156)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use8835"
+         transform="translate(51.96156)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8825"
+         id="use8837"
+         transform="translate(51.96156)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8703"
+         id="use8839"
+         transform="translate(103.92312)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use8841"
+         transform="translate(103.92312)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use8843"
+         transform="translate(103.92312)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use8845"
+         transform="translate(103.92312)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use8847"
+         transform="translate(103.92312)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8825"
+         id="use8849"
+         transform="translate(103.92312)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8701"
+         id="use8851"
+         transform="translate(-134.22241,-185.24494)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8701"
+         id="use8853"
+         transform="translate(-125.56215,-170.24494)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use8855"
+         transform="translate(164.54494,-15.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use8857"
+         transform="translate(164.54494,14.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use8859"
+         transform="translate(164.54494,-15.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use8861"
+         transform="translate(164.54494,14.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8703"
+         id="use8863"
+         transform="translate(207.84624)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use8865"
+         transform="translate(207.84624)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use8867"
+         transform="translate(207.84624)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8701"
+         id="use8887"
+         transform="translate(-290.10709,-155.24494)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8701"
+         id="use8889"
+         transform="translate(-281.44683,-140.24494)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use8891"
+         transform="translate(8.66026,15.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use8893"
+         transform="translate(8.66026,45.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use8895"
+         transform="translate(8.66026,15.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use8897"
+         transform="translate(8.66026,45.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8703"
+         id="use8899"
+         transform="translate(51.96156,30.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use8901"
+         transform="translate(51.96156,30.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use8903"
+         transform="translate(51.96156,30.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use8905"
+         transform="translate(51.96156,30.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use8907"
+         transform="translate(51.96156,30.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8825"
+         id="use8909"
+         transform="translate(51.96156,30.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8703"
+         id="use8911"
+         transform="translate(103.92312,30.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use8913"
+         transform="translate(103.92312,30.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use8915"
+         transform="translate(103.92312,30.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use8917"
+         transform="translate(103.92312,30.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use8919"
+         transform="translate(103.92312,30.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8825"
+         id="use8921"
+         transform="translate(103.92312,30.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8701"
+         id="use8923"
+         transform="translate(-134.22241,-155.24494)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8701"
+         id="use8925"
+         transform="translate(-125.56215,-140.24494)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use8927"
+         transform="translate(164.54494,15)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use8929"
+         transform="translate(164.54494,45)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use8931"
+         transform="translate(164.54494,15)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use8933"
+         transform="translate(164.54494,45)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8703"
+         id="use8935"
+         transform="translate(207.84624,30.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use8937"
+         transform="translate(207.84624,30.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use8939"
+         transform="translate(207.84624,30.000002)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8703"
+         id="use8941"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use8943"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use8945"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use8947"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use8949"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8825"
+         id="use8951"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8827"
+         id="use8953"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8829"
+         id="use8955"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8831"
+         id="use8957"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8833"
+         id="use8959"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8835"
+         id="use8961"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8837"
+         id="use8963"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8839"
+         id="use8965"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8841"
+         id="use8967"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8843"
+         id="use8969"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8845"
+         id="use8971"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8847"
+         id="use8973"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8849"
+         id="use8975"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8851"
+         id="use8977"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8853"
+         id="use8979"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8855"
+         id="use8981"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8857"
+         id="use8983"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8859"
+         id="use8985"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8861"
+         id="use8987"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8863"
+         id="use8989"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8865"
+         id="use8991"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8867"
+         id="use8993"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8887"
+         id="use8995"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8889"
+         id="use8997"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8891"
+         id="use8999"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8893"
+         id="use9001"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8895"
+         id="use9003"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8897"
+         id="use9005"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8899"
+         id="use9007"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8901"
+         id="use9009"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8903"
+         id="use9011"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8905"
+         id="use9013"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8907"
+         id="use9015"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8909"
+         id="use9017"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8911"
+         id="use9019"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8913"
+         id="use9021"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8915"
+         id="use9023"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8917"
+         id="use9025"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8919"
+         id="use9027"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8921"
+         id="use9029"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8923"
+         id="use9031"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8925"
+         id="use9033"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8927"
+         id="use9035"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8929"
+         id="use9037"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8931"
+         id="use9039"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8933"
+         id="use9041"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8935"
+         id="use9043"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8937"
+         id="use9045"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8939"
+         id="use9047"
+         transform="translate(0,59.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8701"
+         id="use9049"
+         transform="translate(-290.10709,-65.244943)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8701"
+         id="use9051"
+         transform="translate(-281.44683,-50.244943)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use9053"
+         transform="translate(8.66026,105)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use9055"
+         transform="translate(8.66026,135)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use9057"
+         transform="translate(8.66026,105)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use9059"
+         transform="translate(8.66026,135)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8703"
+         id="use9061"
+         transform="translate(51.96156,120)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use9063"
+         transform="translate(51.96156,120)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use9065"
+         transform="translate(51.96156,120)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use9067"
+         transform="translate(51.96156,120)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use9069"
+         transform="translate(51.96156,120)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8825"
+         id="use9071"
+         transform="translate(51.96156,120)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8703"
+         id="use9073"
+         transform="translate(103.92312,120)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use9075"
+         transform="translate(103.92312,120)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use9077"
+         transform="translate(103.92312,120)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use9079"
+         transform="translate(103.92312,120)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use9081"
+         transform="translate(103.92312,120)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8825"
+         id="use9083"
+         transform="translate(103.92312,120)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8701"
+         id="use9085"
+         transform="translate(-134.22241,-65.244943)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8701"
+         id="use9087"
+         transform="translate(-125.56215,-50.244943)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use9089"
+         transform="translate(164.54494,105)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use9091"
+         transform="translate(164.54494,135)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use9093"
+         transform="translate(164.54494,105)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use9095"
+         transform="translate(164.54494,135)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8703"
+         id="use9097"
+         transform="translate(207.84624,120)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use9099"
+         transform="translate(207.84624,120)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use9101"
+         transform="translate(207.84624,120)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8701"
+         id="use9103"
+         transform="translate(-290.10709,-35.244943)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8701"
+         id="use9105"
+         transform="translate(-281.44683,-20.244943)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use9107"
+         transform="translate(8.66026,135)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use9109"
+         transform="translate(8.66026,165)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use9111"
+         transform="translate(8.66026,135)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use9113"
+         transform="translate(8.66026,165)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8703"
+         id="use9115"
+         transform="translate(51.96156,150)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use9117"
+         transform="translate(51.96156,150)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use9119"
+         transform="translate(51.96156,150)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use9121"
+         transform="translate(51.96156,150)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use9123"
+         transform="translate(51.96156,150)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8825"
+         id="use9125"
+         transform="translate(51.96156,150)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8703"
+         id="use9127"
+         transform="translate(103.92312,150)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use9129"
+         transform="translate(103.92312,150)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use9131"
+         transform="translate(103.92312,150)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use9133"
+         transform="translate(103.92312,150)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use9135"
+         transform="translate(103.92312,150)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8825"
+         id="use9137"
+         transform="translate(103.92312,150)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8701"
+         id="use9139"
+         transform="translate(-134.22241,-35.244943)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8701"
+         id="use9141"
+         transform="translate(-125.56215,-20.244943)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use9143"
+         transform="translate(164.54494,135)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use9145"
+         transform="translate(164.54494,165)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use9147"
+         transform="translate(164.54494,135)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use9149"
+         transform="translate(164.54494,165)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8703"
+         id="use9151"
+         transform="translate(207.84624,150)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use9153"
+         transform="translate(207.84624,150)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use9155"
+         transform="translate(207.84624,150)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8703"
+         id="use9157"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8817"
+         id="use9159"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8819"
+         id="use9161"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8821"
+         id="use9163"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8823"
+         id="use9165"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8825"
+         id="use9167"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8827"
+         id="use9169"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8829"
+         id="use9171"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8831"
+         id="use9173"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8833"
+         id="use9175"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8835"
+         id="use9177"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8837"
+         id="use9179"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8839"
+         id="use9181"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8841"
+         id="use9183"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8843"
+         id="use9185"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8845"
+         id="use9187"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8847"
+         id="use9189"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8849"
+         id="use9191"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8851"
+         id="use9193"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8853"
+         id="use9195"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8855"
+         id="use9197"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8857"
+         id="use9199"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8859"
+         id="use9201"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8861"
+         id="use9203"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8863"
+         id="use9205"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8865"
+         id="use9207"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8867"
+         id="use9209"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8887"
+         id="use9211"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8889"
+         id="use9213"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8891"
+         id="use9215"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8893"
+         id="use9217"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8895"
+         id="use9219"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8897"
+         id="use9221"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8899"
+         id="use9223"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8901"
+         id="use9225"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8903"
+         id="use9227"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8905"
+         id="use9229"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8907"
+         id="use9231"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8909"
+         id="use9233"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8911"
+         id="use9235"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8913"
+         id="use9237"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8915"
+         id="use9239"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8917"
+         id="use9241"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8919"
+         id="use9243"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8921"
+         id="use9245"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8923"
+         id="use9247"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8925"
+         id="use9249"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8927"
+         id="use9251"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8929"
+         id="use9253"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8931"
+         id="use9255"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8933"
+         id="use9257"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8935"
+         id="use9259"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8937"
+         id="use9261"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8939"
+         id="use9263"
+         transform="translate(0,180)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9103"
+         id="use9265"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9105"
+         id="use9267"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9107"
+         id="use9269"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9109"
+         id="use9271"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9111"
+         id="use9273"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9113"
+         id="use9275"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9115"
+         id="use9277"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9117"
+         id="use9279"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9119"
+         id="use9281"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9121"
+         id="use9283"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9123"
+         id="use9285"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9125"
+         id="use9287"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9127"
+         id="use9289"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9129"
+         id="use9291"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9131"
+         id="use9293"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9133"
+         id="use9295"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9135"
+         id="use9297"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9137"
+         id="use9299"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9139"
+         id="use9301"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9141"
+         id="use9303"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9143"
+         id="use9305"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9145"
+         id="use9307"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9147"
+         id="use9309"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9149"
+         id="use9311"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9151"
+         id="use9313"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9153"
+         id="use9315"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9155"
+         id="use9317"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9157"
+         id="use9319"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9159"
+         id="use9321"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9161"
+         id="use9323"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9163"
+         id="use9325"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9165"
+         id="use9327"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9167"
+         id="use9329"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9169"
+         id="use9331"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9171"
+         id="use9333"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9173"
+         id="use9335"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9175"
+         id="use9337"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9177"
+         id="use9339"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9179"
+         id="use9341"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9181"
+         id="use9343"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9183"
+         id="use9345"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9185"
+         id="use9347"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9187"
+         id="use9349"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9189"
+         id="use9351"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9191"
+         id="use9353"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9193"
+         id="use9355"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9195"
+         id="use9357"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9197"
+         id="use9359"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9199"
+         id="use9361"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9201"
+         id="use9363"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9203"
+         id="use9365"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9205"
+         id="use9367"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9207"
+         id="use9369"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9209"
+         id="use9371"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9211"
+         id="use9373"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9215"
+         id="use9377"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9219"
+         id="use9381"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9223"
+         id="use9385"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9227"
+         id="use9389"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9231"
+         id="use9393"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9235"
+         id="use9397"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9239"
+         id="use9401"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9243"
+         id="use9405"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9247"
+         id="use9409"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9251"
+         id="use9413"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9255"
+         id="use9417"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9259"
+         id="use9421"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9263"
+         id="use9425"
+         transform="translate(0,89.999998)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8865"
+         id="use9722" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8867"
+         id="use9724" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8937"
+         id="use9726" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8939"
+         id="use9728" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8991"
+         id="use9730" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8993"
+         id="use9732" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9045"
+         id="use9734" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9047"
+         id="use9736" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9099"
+         id="use9738" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9101"
+         id="use9740" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9153"
+         id="use9742" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9155"
+         id="use9744" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9207"
+         id="use9746" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9209"
+         id="use9748" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9261"
+         id="use9750" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9263"
+         id="use9752" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9315"
+         id="use9754" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9317"
+         id="use9756" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9369"
+         id="use9758" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9371"
+         id="use9760" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9425"
+         id="use9762" />
+    </g>
+    <g
+       id="g8701"
+       transform="translate(50.72353,-16.017957)">
+      <path
+         style="fill:#dc143c;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;stroke-dasharray:1.5, 1.5;paint-order:stroke fill markers;stop-color:#000000"
+         d="m 231.80018,209.7629 v -10 l 8.66026,-5 v 10 z"
+         id="path6296" />
+      <path
+         style="fill:#ffffff;stroke:none;stroke-width:1.5;stroke-linejoin:round;stroke-dasharray:1.5, 1.5;paint-order:stroke fill markers;stop-color:#000000"
+         d="m 231.80018,209.7629 v -10 l -8.66026,-5 v 10 z"
+         id="path6406" />
+      <path
+         style="fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;stroke-dasharray:1.5, 1.5;paint-order:stroke fill markers;stop-color:#000000"
+         d="m 223.13993,194.7629 8.66025,-5 8.66026,5 -8.66026,5 z"
+         id="path7134" />
+      <path
+         style="display:inline;opacity:0.5;fill:url(#linearGradient7893);fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;stroke-dasharray:1.5, 1.5;paint-order:stroke fill markers;stop-color:#000000"
+         d="m 223.13993,194.7629 8.66025,-5 8.66026,5 -8.66026,5 z"
+         id="path7862" />
+      <path
+         style="display:inline;opacity:0.5;fill:url(#linearGradient8687);fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;stroke-dasharray:1.5, 1.5;paint-order:stroke fill markers;stop-color:#000000"
+         d="m 240.46044,194.7629 v 10 l -8.66026,5 v -10 z"
+         id="path8685" />
+      <path
+         style="display:inline;opacity:0.5;fill:url(#linearGradient8693);fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;stroke-dasharray:1.5, 1.5;paint-order:stroke fill markers;stop-color:#000000"
+         d="m 223.13992,194.7629 v 10 l 8.66026,5 v -10 z"
+         id="path8691" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="bg_face"
+     sodipodi:insensitive="true">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:7.5;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 0,0 V 297 H 210 V 0 Z"
+       id="path10503"
+       clip-path="url(#clipPath10567)"
+       inkscape:label="path10503" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient10751);fill-opacity:1;stroke:none;stroke-width:7.50002;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect10623"
+       width="202.5"
+       height="289.5"
+       x="3.75"
+       y="3.7500002" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="contents">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;line-height:100%;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.50001;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers;stop-color:#000000"
+       x="12.375583"
+       y="29.190653"
+       id="text11144"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="29.190653"
+         id="tspan724">SPOTKANIE</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="43.301754"
+         id="tspan728" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="57.412857"
+         id="tspan730">POLSKICH</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="71.523956"
+         id="tspan732">MŁODYCH</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="85.635056"
+         id="tspan734">KRYSTALOGRAFÓW</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="99.746155"
+         id="tspan736" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="113.85725"
+         id="tspan738">5. LIPCA 2023</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="127.96835"
+         id="tspan740">15:00 – 20:00</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="142.07945"
+         id="tspan742" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="156.19055"
+         id="tspan744">Instytut Niskich Temperatur</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="170.30165"
+         id="tspan746">i Badań Strukturalnych PAN</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="184.41275"
+         id="tspan748">ul. Okólna 2, Wrocław</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="198.52385"
+         id="tspan750" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="212.63495"
+         id="tspan752">W planie:</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="226.74605"
+         id="tspan756">Prezentacje ustne</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="240.85715"
+         id="tspan758">Integracja przy grillu</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="254.96825"
+         id="tspan760">Nagrody i upominki</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#000000;stroke-width:7.5"
+         x="12.375583"
+         y="269.07938"
+         id="tspan754" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;line-height:100%;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       x="114.44983"
+       y="17.01679"
+       id="text816"><tspan
+         style="stroke-width:0.5;fill:#808080;stroke:none;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan874"
+         x="114.44983"
+         y="17.01679">Logo PYC</tspan><tspan
+         style="stroke-width:0.5;fill:#808080;stroke:none;fill-opacity:1"
+         sodipodi:role="line"
+         x="114.44983"
+         y="31.12789"
+         id="tspan876">Logo PTKryst</tspan><tspan
+         style="stroke-width:0.5;fill:#808080;stroke:none;fill-opacity:1"
+         sodipodi:role="line"
+         x="114.44983"
+         y="45.238995"
+         id="tspan878">co tam jeszcze</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.5;fill:#808080;stroke:none;fill-opacity:1"
+         x="114.44983"
+         y="59.350094"
+         id="tspan872" /></text>
+  </g>
+</svg>
